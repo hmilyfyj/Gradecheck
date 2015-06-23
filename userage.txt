@@ -1,0 +1,1 @@
+python zz.py '{"type":"score","id":"1208010110","pw":"892515"}'
